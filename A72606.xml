@@ -1,0 +1,1462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first set of English madrigales to 3. 4. 5. and 6. voices. Newly composed by Thomas Bateson ...</title>
+            <title>Madrigals. 1st set</title>
+            <author>Bateson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 59 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72606</idno>
+            <idno type="STC">STC 1586</idno>
+            <idno type="STC">ESTC S101050</idno>
+            <idno type="EEBO-CITATION">99899030</idno>
+            <idno type="PROQUEST">99899030</idno>
+            <idno type="VID">150783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1980:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first set of English madrigales to 3. 4. 5. and 6. voices. Newly composed by Thomas Bateson ...</title>
+                  <title>Madrigals. 1st set</title>
+                  <author>Bateson, Thomas.</author>
+               </titleStmt>
+               <extent>[156] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>printed by Thomas Este,</publisher>
+                  <pubPlace>1604. In London :</pubPlace>
+                  <date>[1604]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]²  B-D⁴ E² ; [A]²  B-D⁴ E² ; [A]²  B-D⁴; [A]²  B-D⁴ E² ; [A]²  B-C⁴; [A]²  B⁴.</note>
+                  <note>Six partbooks, each with separate dated title page and register. At head of title, part 1: "Cantus."; part 2: "Altus."; part 3: "Tenor."; part 4: "Bassus."; part 5: "Quintus."; part 6: "Sextus.".</note>
+                  <note>Reproduction of original in the Christ Church Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Madrigals, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:150783:1"/>
+                  <p>ALTVS.</p>
+                  <p>The firſt ſet of English MADRIGALES: to 3. 4. 5. and 6. voices.</p>
+                  <p>
+                     <hi>Newly compoſed by Thomas Bateſon</hi> practicioner in the Art of <hi>Muſicke,</hi> and Organiſt of the Cathedral Church of <hi>Chriſt</hi> in the Citie of <hi>Cheſter.</hi>
+                  </p>
+                  <p>1604.</p>
+                  <p>IN LONDON PRINTED BY THOMAS ESTE.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150783:2"/>
+                  <head>THE TABLE.</head>
+                  <p>Of 6. voc.
+<list>
+                        <item>When <hi>Oriana</hi> walkt to take the ayer:<lb/> This Song was ſent to late, and ſhould haue been printed in the ſet of Orianaes: but being a work of this author, I haue placed it before this ſet of his Songs.</item>
+                     </list>
+                  </p>
+                  <list>
+                     <head>Songs to 3. voices.</head>
+                     <item>BEautie is a louely ſweet. I</item>
+                     <item>Loue would diſcharge the dutie of his hart. II</item>
+                     <item>The Nightingale ſo ſoone as Aprill bringeth. III</item>
+                     <item>Aye mee, my miſtreſſe ſcornes my loue. IIII</item>
+                     <item>Come follow mee faire Nymphes. V</item>
+                     <item>Your ſhining eyes and golden haire. VI</item>
+                  </list>
+                  <list>
+                     <head>Songs to 4. voices.</head>
+                     <item>Whether ſo faſt, ſee how the kindly flowres. VII</item>
+                     <item>Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe. VIII</item>
+                     <item>Downe from aboue falls <hi>Ioue</hi> in rayne. IX</item>
+                     <item>Adue ſweet loue, Adue. X</item>
+                     <item>If loue bee blinde, how hath hee then the ſight. XI</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 5. voices.</head>
+                     <item>Thoſe ſweet delightfull Lillies. XIII</item>
+                     <item>And muſt I needs depart then. XIIII</item>
+                     <item>Sweet <hi>Gemma,</hi> when I firſt beheld. Firſt part. XV</item>
+                     <item>Yet ſtay alway, be chained to my hart. Second part. XVI</item>
+                     <item>Strange were the life that euery man would like. XVII</item>
+                     <item>Alas where is my loue, where is my ſweeting. XVIII</item>
+                     <item>O fly not loue, O fly not mee. XIX</item>
+                     <item>Who proſtrate lyes at womens feet. XX</item>
+                     <item>Siſter awake, cloſe not your eyes. XXI</item>
+                  </list>
+                  <list>
+                     <head>
+                        <hi>Orianaes</hi> farewell.</head>
+                     <item>Hark, heare you not a heauenly harmony. XXII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 6. voices.</head>
+                     <item>Deare, if you wiſh my dying. XXIII</item>
+                     <item>Faire <hi>Hebe,</hi> when dame <hi>Flora</hi> meets. XXIIII</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XXV</item>
+                     <item>
+                        <hi>Thirſis, Thirſis</hi> on his faire <hi>Phillis.</hi> XXVI</item>
+                     <item>Merely my loue and I. XXVII</item>
+                     <item>Muſick ſome thincks no Muſick is. XXVIII</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150783:2"/>
+                  <head>
+                     <hi>TO MY HONORABLE AND MOST reſpected good friend: Sir VVilliam Norres Knight</hi> of the honorable order of the Bath: Thomas Bate<g ref="char:EOLhyphen"/>ſon wiſheth long lyfe, health and happineſſe, with increaſe of honor.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>YR, I am bould to preſent vnto you theſe few <hi>MADRIGALES,</hi> and I pray you as you haue heeretofore (rather for your exceeding loue to mee, then for any worth that I acknowledge of the Songs) giuen them your priuate applauſe &amp; liking, when I ſent them to you euer as they were compoſed in looſe papers, ſo you wil much more now, (for now in-deed when they come to the worlds eye and cenſure, they had more need of it then euer) Vouchſafe to giue them your good countenance and publick patronage. In trueth I muſt confeſſe, they are like young birds feared out of the neſt before they be well feathered, &amp; finde no place ſo fit to light on as on the braun<g ref="char:EOLhyphen"/>ches of your fauour: where (ſuch is your loue to mee and Muſick) I hope they wilbe ſo ſhrou<g ref="char:EOLhyphen"/>ded in the leaues of your good liking, that you will giue leaue neither to any rauenous Kite nor craftie fowler (I meane neither to any open mouthed <hi>Momus</hi> nor more ſlie detractor) to deuoure, or harme them, that cannot ſuccor nor ſhift for themſelues. I could wiſh them a Cage of as many ſweet ſinging <hi>Nightingales</hi> to ſalute your eares with the choiſeſt of delight<g ref="char:EOLhyphen"/>full Notes and the melody of moſt eare-pleaſing harmony, that your idle time might not paſſe without delight, if they might yeeld it to you. But whatſoeuer they are, yours they are, &amp; for you onely they were made. It was your good countenance that did encourage mee to this; Your loue to Muſick doth not onely chalenge it of mee, but euen the vttermoſt that Muſicks art can afford; which if it were in mee, I would moſt willingly offer to you; Now let theſe my affectionate indeuours be accepted, ſince this is all that I can performe: except the honoring of your Vertues, and obſeruance of your worthineſſe.</p>
+                  <closer>
+                     <signed>Yours in all loue and ſo obliged, <hi>Thomas Bateſon.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="alto" type="partbook">
+                  <pb facs="tcp:150783:3"/>
+                  <div type="madrigal">
+                     <head>This ſong ſhould haue bene printed in the ſet of <hi>Orianaes.</hi>
+                     </head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>WHen <hi>O╌riana</hi> walkt to take the aier, The world did ſtriue to entertain ſo faire, the world ij. the world ij. By <hi>Flora</hi> faire and ſwee<g ref="char:EOLhyphen"/>teſt flowers were ſtrone, by <hi>Flora</hi> ij. were ſtrone, A long the way for her to tread vpon, a long ij. The trees did bloſſom, Siluer ri╌uers ran, the trees ij. The wind did gently play vp╌on her fan: And then for to delight her graces eare, her ij. her ij. The woods a temple ſeemd, the birds a quire. the woods ij. the woods ij. Then ſang the ſheperds &amp; Nimphs of <hi>Diana,</hi> and ij. and ij. and ij. Long liue faire <hi>O╌ri╌a╌na.</hi> Long ij. Long liue faire <hi>O╌ria╌na<g ref="char:punc">▪</g>
+                        </hi> faire <hi>O╌ri╌ana.</hi>
+                     </p>
+                  </div>
+                  <div n="1" type="madrigal">
+                     <pb facs="tcp:150783:3"/>
+                     <head>I.</head>
+                     <opener>Of 3. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eautie is a louely ſweet, where pure white and crimſon meet: wher ij. Beautie is a louely ſweet, wher pure white &amp; crimſo<g ref="char:cmbAbbrStroke">̄</g> meet: wher ij. Ioyn'd with fauour of the face, chiefeſt flour of femall race: chiefeſt ij. Oh chiefeſt flour of femall race. But if vertue might be ſeene, but ij. it would more, it ij. delight the eine. it ij. it ij. it ij. delight the eine. But if vertue might be ſeene, but ij. it would more, it ij. delight the eine. it ij. it ij. it ij. de<g ref="char:EOLhyphen"/>light the eine.</p>
+                  </div>
+                  <div n="2" type="madrigal">
+                     <pb facs="tcp:150783:4"/>
+                     <head>II.</head>
+                     <opener>Of 3. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Oue would diſcharge the dutie of his hart, in beauties praiſe, whoſe greatnes doth denie, words to his thoughts, words ij. &amp; thoughts to his deſert: &amp; thoughts ij. and ij. which high conceipt ſince nothing can ſupply, can ſupply, which ij. ſince nothing can ſupply, Loue heere conſtraind through conqueſt to confeſſe: bids ſilence ſigh, that tongue cannot expreſſe<g ref="char:punc">▪</g> bids ij. bids ſi╌lence ſigh that ij. that ij. cannot ex╌preſſe. Loue heere conſtraind through conqueſt to con╌feſſe: bids ſilence ſigh, that ij. bids ij. bids ſi╌lence ſigh, that tongue can not ex╌preſſe. that tongue can not, can not ex╌preſſe.</p>
+                  </div>
+                  <div n="3" type="madrigal">
+                     <pb facs="tcp:150783:4"/>
+                     <head>III.</head>
+                     <opener>Of 3. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He <hi>Nightingale,</hi> the ij. ſo ſoone as <hi>Aprill</hi> bring<g ref="char:EOLhyphen"/>eth, ſo ij. vnto her reſted ſence, a perfect waking: vnto ij. while late bare earth, proud of new clothing ſpringeth, Sings out her woes, a thorne her ſong booke making: and mournfully bewayling, and ij bewayling, her throat in tunes ex<g ref="char:EOLhyphen"/>preſſeth, what griefe her breſt oppreſſeth, what ij. what ij. what ij. what ij. what ij.</p>
+                  </div>
+                  <div n="4" type="madrigal">
+                     <pb facs="tcp:150783:5"/>
+                     <head>IIII.</head>
+                     <opener>Of 3. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Ye mee, ij. ij. Aye mee, my miſtris ſcorns my loue, Aye mee, ij. my loue, I feare ſhe will moſt cruell proue: I feare ij. I feare ij. ſhe wil moſt cruell proue. Aye mee: Aye mee, I weep, I ſigh, I greeue &amp; groane, I weep, ij. I ij. I greeue and groane, I ij. yet ſhee regardeth not, yet ij. my moane: then loue adew, adew, ij. ij. adew it ſits not mee, to weepe for her that laughs at thee. to ij. to ij. to ij. for her, to ij that laughes at thee, to weepe for her, that laughs at thee. Deere. but I Loue ij. kild the Deere.</p>
+                  </div>
+                  <div n="5" type="madrigal">
+                     <pb facs="tcp:150783:5"/>
+                     <head>V.</head>
+                     <opener>Of 3. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome follow mee faire Nymphs, come ij. come ij. come ij, come follow mee faire Nimphs, hie runne a paſe, runne, hie i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> run a paſe, <hi>Diana</hi> hunting, honoreth, honoreth this chaſe: <hi>Dia╌na</hi> ij. foftlie, for feare her game we rowſe, ſoftlie ij. ſoftly ij. lodgd in this groue of briers &amp; bows. Hark how the huntſmen, how ij. winds their horns, ſee how the deere, ſee ij. mounts ore the thorns: the black, ij. ij. O ho, O ho, he pincht thee ther, Gowen ran wel, oh Gowen ij. ran wel, but I loue kild the deere<g ref="char:punc">▪</g> y<hi rend="sup">e</hi> black, ij. ij. O ho, O ho he pincht thee ther, Gowen ran wel, oh Gowe<g ref="char:cmbAbbrStroke">̄</g> ij. ran well, but I Loue kild the</p>
+                  </div>
+                  <div n="6" type="madrigal">
+                     <pb facs="tcp:150783:6"/>
+                     <head>VI.</head>
+                     <opener>Of 3 voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Our ſhining eies and gowlden haire, your Lillie roſed lipps moſt faire: your ij. your other beauties that ex╌cell, your ij. men can not chuſe, but like them well. ij men ij. But when for them, they ſay theil dye, they ij. beleeue them not they doe but lie. but lie. be ij. be ij. beleeue them not they do but lie. they do but lie. But when for them, they ſay theile die: they ij. beleeue them not they doe but lie. but lie. be ij. be ij. beleeue the<g ref="char:cmbAbbrStroke">̄</g> not they do but lie. they do but lie.</p>
+                     <trailer>Heere endeth the ſongs of 3. parts.</trailer>
+                  </div>
+                  <div n="7" type="madrigal">
+                     <pb facs="tcp:150783:6"/>
+                     <head>VII.</head>
+                     <opener>Of 4. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hether ſo faſt, ſee how the kindly flow'rs perfume the Ayre: perfume ij. &amp; all to make, to make thee ſtay. The climbing woodbind clipping all theſe bowers, all ij. clips thee likewiſe: ij. for feare thou paſſe a╌way for ij. Fortune our friend, ij. Our foe will not gainſay not gainſay. Stay but a while, but a while, <hi>Phaebe</hi> no tel╌tale is: Shee her <hi>Endimion,</hi> Ile my <hi>Phaebe</hi> kiſſe. Ile ij. She ij. Ile my ij. Stay but a while, but a while, <hi>Phaebe</hi> no tel╌tale is, ſhee her <hi>En<g ref="char:EOLhyphen"/>dimion,</hi> Ile my <hi>Phaebe</hi> kiſſe. Ile ij. She ij. Ile my ij.</p>
+                  </div>
+                  <div n="8" type="madrigal">
+                     <pb facs="tcp:150783:7"/>
+                     <head>VIII.</head>
+                     <opener>Of 4 voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field: he cannot tend ſweet loues embrace, in ha<g ref="char:cmbAbbrStroke">̄</g>d with ſpeare &amp; ſhield. Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field, he cannot tend ſweet loues embrace, in hand with ſpeare &amp; ſhield. The roaring Canons thunder out, thun╌der out, ſuch terrours as not fit: a tender Impe of your regard, which dalling ſtill doth ſit. ij. doth ſit. ij. doth ſit. ij. doth ſit.</p>
+                  </div>
+                  <div n="9" type="madrigal">
+                     <pb facs="tcp:150783:7"/>
+                     <head>IX.</head>
+                     <opener>Of 4. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>DOwne from aboue, falls <hi>Ioue</hi> in rayne, falles <hi>Ioue</hi> in rayne, into faire <hi>Danaes</hi> lap amaine: into ij. into ij. thereat ſhee ſtarts, thereat, yet Lamblike ſtill: yet Lamblike ſtill: at laſt performeth all his will. at ij. Both hie and low ſuch golden guifts, ſuch: ij. ſuch ij. ſuch: ij. will put their conſcience to the ſhift. will ij. will put their conſcience to the ſhift. will put their conſcience to the ſhift. their conſcience to the ſhift.</p>
+                  </div>
+                  <div n="10" type="madrigal">
+                     <pb facs="tcp:150783:8"/>
+                     <head>X.</head>
+                     <opener>Of 4. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg> Dew ſweet loue, a dew, a dew, a dew, ſweete loue, a dew, ij. O thus to part, kills my bleeding hart: O ij. O ij. Yet fates alas, will haue it ſo, yet ij. yet ij. will haue it ſo, will ij. Cru<g ref="char:EOLhyphen"/>ell their dome ij. ſo to de╌cree, at once to part two louers true. at ij. at once to part two louers true. But ſince we needs muſt part: but ij. but ij. once againe, ij. ij. a dew ſweet hart. a dew a dew a dew ſweet hart. a dew, ij. a dew, ſweet hart.</p>
+                  </div>
+                  <div n="11" type="madrigal">
+                     <pb facs="tcp:150783:8"/>
+                     <head>XI.</head>
+                     <opener>Of 4 voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> Floue be blind, how hath he then the ſight, how ij. with beauties beames my careleſſe hart to wound: to wound: my care╌ij. my care╌ij. Or if a boy, ij. how hath he the<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> might, ij. the might, the mighti'ſt conquerors to bring to ground to ij. ground. the ij. O no he is not blind, but I that leeſe, O no ij. my thoughts, the wayes that bring to reſtleſſe feares: my thoughts ij. reſtleſſe feares: Nor yet a boy, but I that liue in dread, that liue ij. mixed with hope, and ſeeke for ioy in teares. mixed with ij. for ioy in teares.</p>
+                  </div>
+                  <div n="12" type="madrigal">
+                     <pb facs="tcp:150783:9"/>
+                     <head>XII.</head>
+                     <opener>Of 4. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis,</hi> fare well, I may no longer liue: I ij. Yet if I dye, yet ij. faire <hi>Phillis</hi> I forgiue: ij. I liue to long, I ij. come gentle death and end: come ij. my endleſſe torment or my griefe, my griefe amend. my endleſſe ij. my endleſſe torment, or my griefe amend. I liue to long, ij. Come gentle death &amp; end: ij. my endleſſe torment, or my griefe, my griefe a<g ref="char:EOLhyphen"/>mend. my endleſſe ij. my endleſſe torment or my griefe amend.</p>
+                     <trailer>Heere endeth the ſongs of 4 parts.</trailer>
+                  </div>
+                  <div n="13" type="madrigal">
+                     <pb facs="tcp:150783:9"/>
+                     <head>XIII.</head>
+                     <opener>Of 5. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>THoſe ſweet delightful Lil╌lies, which nature gaue my <hi>Phillis:</hi> which ij. which ij. which ij. my <hi>Phil╌lis:</hi> Thoſe ſweet delightful Lil╌lies, which nature gaue my <hi>Phillis,</hi> which ij. which ij. which nature: ij. Aye mee, aye: mee, aye mee, my <hi>Phillis,</hi> my <hi>Phillis,</hi> each houre makes mee, makes mee to languiſh: So greeuous is my paine, my paine and an╌guiſh. my paine and an<g ref="char:EOLhyphen"/>guiſh. So ij. So ij. my paine and an╌guiſh. Ay mee, Ay mee, Aye mee my <hi>Phillis,</hi> my <hi>Phillis,</hi> each houre makes mee, makes mee to lan╌guiſh. So greeuous is my paine, my paine and an╌guiſh. my paine and anguiſh, So ij. So ij. my paine and an╌guiſh.</p>
+                  </div>
+                  <div n="14" type="madrigal">
+                     <pb facs="tcp:150783:10"/>
+                     <head>XIIII.</head>
+                     <opener>Of 5. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>AND muſt I needs depart then, And ij. and ij. de<g ref="char:EOLhyphen"/>part then, depart then, can pit╌tie none come nye her: can ij. can pittie ij. come ij. can pittie ij. farewell, ij. ij. ij. alas deſeart then, farewell alas deſeart then: ij. ij. O break a<g ref="char:EOLhyphen"/>ſunder heart to ſatis╌fie her. O ij. O ij. O ij. alas to ſa╌tisfie her. to ij. to ij. to ſatiſ╌fie, to ſa╌tiſ╌fie her, farewel, ij. ij. farewel alas deſert then, ij. fare<g ref="char:EOLhyphen"/>wel, ij. farewel: ij. O break aſunder hart, to ſatiſ╌fie her. O ij. O ij. O ij. alas to ij. ij.</p>
+                  </div>
+                  <div n="15" type="madrigal">
+                     <pb facs="tcp:150783:10"/>
+                     <head>XV.</head>
+                     <opener>Of 5. voc. The firſt part. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>SWeet <hi>Gemma,</hi> when I firſt beheld thy beautie, thy beautie, I vow'd thee ſeruice, ij. ij. ij. honour, loue, and duetie, and duetie, and duetie, honour, loue and dutie, Oh then, ij. I ſaide, the beſt: I ij. I ij. is hi╌ther come, to make mee bleſt: mee bleſt: but thou alas, alas, ij. ij. a╌las, a╌las ſweet, thou doſt not regard, doſt ij. my vow, goe, goe let mee not ſee, ij. ij. goe: ij. not ſee, Cruell though fayreſt thee. though: ij. Cru<g ref="char:EOLhyphen"/>ell ij. Cruell ij. though fayreſt thee. to ij. ij. to ſatis╌fie her.</p>
+                  </div>
+                  <div n="16" type="madrigal">
+                     <pb facs="tcp:150783:11"/>
+                     <head>XVI.</head>
+                     <opener>Of 5. voc. The ſecond part. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Et ſtay al╌way, Yet ij. yet ij. yet ij. yet ij. alway, bee chai╌ned to my heart, to my hart, with links of loue, that wee doe neuer part: with ij. with ij. that wee doe ne╌uer part. Then Ile not call thee Serpent, Tiger cru╌ell, (O) Tiger cru╌ell, but my ſweet <hi>Gemma</hi> and my deereſt Iuell. but ij. but ij. <hi>Gem╌ma</hi> but my ſweete <hi>Gemma,</hi> and my deareſt Iu╌ell. and my deareſt Iu╌ell.</p>
+                  </div>
+                  <div n="17" type="madrigal">
+                     <pb facs="tcp:150783:11"/>
+                     <head>XVII.</head>
+                     <opener>Of 5. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Trange were the life, ſtrange, ij. ſtrange ij. that eu'╌rie man would like, more ſtrange the ſtate, more ij. that ſhould miſ╌like each one, that ij. rare were the <hi>Iemme,</hi> rare were ij. that eu'rie one would ſeeke, that ij. and little little worth, and little ij. and little ij. that all would let a╌lone, that ij. ſweet were the meat, ſweet ij. ſweet ij. that eu'╌rie one would chooſe, and ſowre the ſauſe, and ij. and ſower ij. and ij. that all men would re╌fuſe.</p>
+                  </div>
+                  <div n="18" type="madrigal">
+                     <pb facs="tcp:150783:12"/>
+                     <head>XVIII.</head>
+                     <opener>Of 5. voc. ALTVS</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>ALas, a╌las, where is my Loue? where is my ſweeting? where is ij. That hath ſtolne away my hart, that ij. meeting: god ſend vs meeting, that renuing my lament, that ij. with friendly greeting, with ij. with friend: ij. She may releaſe my ſmart, &amp; all my weeping: ſhe ij. ſhee ij. But if my ſight ſhe flie, till hartles I die, till ij. My grieued ghoſt with ſhrikes &amp; dreadful crying, &amp; dread: ij. &amp; dread: ij. alwaies about her flying, fly╌ing, ſhal murmure out complayning, to be reue<g ref="char:cmbAbbrStroke">̄</g>g'd of al her deep diſdayning. to ij. to ij. to ij.</p>
+                  </div>
+                  <div n="19" type="madrigal">
+                     <pb facs="tcp:150783:12"/>
+                     <head>XIX.</head>
+                     <opener>Of 5. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Flie not Loue, O flie not mee, O flie not loue, O flie not mee, O flie not loue, O flie not mee, O ij. O flie not mee, not mee, ſtay but a while, but ij. but ij. but ij. ſtay thee, ſtay but awhile but ij. ſtay thee, O ſtay thee, &amp; heare a wretch complai╌ning, com<g ref="char:EOLhyphen"/>plaining, his griefe through thy diſdaining: thy diſdayning: O do not thus, do not thus vn<g ref="char:EOLhyphen"/>friendly vſe mee, O doe not thus vnfriendly O doe ij. vſe mee, O doe not thus vnfriendly vſe mee, to kiſſe mee once and ſo re╌fuſe mee. to kiſſe ij. to kiſſe ij. and ſo re╌fuſe mee.</p>
+                  </div>
+                  <div n="20" type="madrigal">
+                     <pb facs="tcp:150783:13"/>
+                     <head>XX.</head>
+                     <opener>Of 5. Voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Ho proſtrate lies at Womens feete, at woo: ij. And cals them darlings deare and ſweet, deere and ſweet, and cals ij. and cals ij. and ſweet, and cals ij. Proteſt╌ing loue and crauing grace, And prai╌ſing oft, and prai╌ſing oft a fooliſh face, a ij. and prai: ij. are often times deceiu'd at laſt, then catch at naught and hould it faſt. then ij. then catch at nought and hould it faſt, it faſt. are often times deceiu'd at laſt, then catch at naught and hould it faſt. then catch at naught and hould it faſt, then catch at naught and hould it faſt. it faſt.</p>
+                  </div>
+                  <div n="21" type="madrigal">
+                     <pb facs="tcp:150783:13"/>
+                     <head>XXI.</head>
+                     <opener>Of 5. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Iſter awake &amp;c. The day her light, diſclo╌ſes, her light ij. and the bright morning and ij. doth a╌riſe, doth ariſe, Out of her bed of Roſes: out ij. See, See ſee the cleere Sunne, the worlds, the worlds bright Eie, in at our window peeping: in ij. pee╌ping, Loe how he bluſheth, to eſ╌pie vs idle wenches ſlee<g ref="char:EOLhyphen"/>ping, vs idle ij. therfore awake, make haſt I ſay, and let vs without ſtay╌ing, all in our gowns of greene ſo gaye, into the Parke a May╌ing. into ij. into ij. in╌to the Park a May╌ing. a May╌ing.</p>
+                  </div>
+                  <div n="22" type="madrigal">
+                     <pb facs="tcp:150783:14"/>
+                     <head>XXII.</head>
+                     <opener>Of 5 voc. <hi>Orianaes</hi> farewell. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>HArk, heare you not, heare you not a heauenly harmony, a heaue<g ref="char:cmbAbbrStroke">̄</g>ly harmony, a hea<g ref="char:EOLhyphen"/>uenly harmo╌ny: Iſt Ioue think you, Iſt Ioue think you, that plaies, ij. ij. that plaies vp<g ref="char:EOLhyphen"/>pon the Spheares: heauens, heauens, is not this, heauens is not this heauenly melody, heauens ij. hea: ij. is not this, heauenly melody, Wher Ioue him ſelf, him ſelfe, him ſelfe, wher ij. a part in Mu╌ſick beares. Now comes in a quire of Nightin<g ref="char:EOLhyphen"/>gales: Mark, mark how the Nimphs &amp; ſheperds of the dales, how all do ioyne together in the praiſe of O╌ri╌anaes life &amp; happy daies. of Ori: ij. of Ori: ij. Then ſing ye ſheperds &amp; Nimphs of Dia╌na, Then ij. &amp; Nimphs ij. Nimphs of Di╌ana, In heauen liues O╌ri╌a╌na, In ij. In ij. In ij. In ij. In ij. In ij.</p>
+                     <trailer>Heere endeth the Songs of 5. parts.</trailer>
+                  </div>
+                  <div n="23" type="madrigal">
+                     <pb facs="tcp:150783:14"/>
+                     <head>XXIII.</head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eare if you wiſh my dying, if you wiſh my dy╌ing, Deare, ij. In vaine your wiſh redownds, in vaine your prayer, for can hee die that breath's not vitall ayer? vitall ayer, that ij. that breaths not vi╌tall ayer, Then with thoſe eyes that ſlew mee, then ij. that ſlew mee, renew mee: re╌new me: re: ij. So ſhall we both obtaine our wiſhed pleaſure, our wiſhed pleaſure, you my death ioying, my death ioying, and I my lifes ſweet treaſure. and I my lifes ſweet treaſure. and ij. and I my lifes ſweet trea╌ſure, ſweet treaſure. and I my lifes ſweet trea╌ſure.</p>
+                  </div>
+                  <div n="24" type="madrigal">
+                     <pb facs="tcp:150783:15"/>
+                     <head>XXIIII.</head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Aire <hi>Hebe,</hi> when dame <hi>Flora</hi> meets, dame <hi>Flora</hi> meets, dame <hi>Flora</hi> meets, ſhe trips and leapes, ſhe ij. ſhe ij. as gallants doe, ſhe trips ij. Vp to the hills and downe againe, and downe againe, to the vallaies runs ſhee too and fro: runs ij. runs ij. But out alas, but out a╌las, a╌las, but out a╌las, alas, when froſty locks begirds the head, with cark and care, with cark and care: Peace, laugh no more, no more, Peace laugh no more, let prancks goe by, let prancks goe by, let prancks goe by, ſlow crauling age forbids ſuch ware. ſlow crauling age, ſlow crauling age for╌bids ſuch ware, ſuch ware.</p>
+                  </div>
+                  <div n="25" type="madrigal">
+                     <pb facs="tcp:150783:15"/>
+                     <head>XXV.</head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis</hi> farewell I may no longer liue, I ij. I ij. I may no longer liue, Yet if I dye, faire <hi>Phillis</hi> I forgiue: faire ij. faire ij. I liue to long, come gentle death and end: come ij. come gentle ij. come ij. my endles torment, or my griefe, my griefe amend. my ij. my ij. my griefe amend. or my ij. or my ij. my griefe a mend. a╌mend.</p>
+                  </div>
+                  <div n="26" type="madrigal">
+                     <pb facs="tcp:150783:16"/>
+                     <head>XXVI.</head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>THir╌ſis, Thir╌ſis,</hi> on his faire <hi>Phillis</hi> breſt repo╌ſing, ſweetly did languiſh, did lan╌guiſh, ſweetly ij. ſweetly did lan╌guiſh, when ſhee in loues ſweet anguiſh, him kiſsing gently, ſaid thus, him kiſ: ij. ſaid thus, <hi>Thirſis</hi> O tell me, O tell me, thy true loue beſt aprooued, thy true ij. art not thou, art not thou my belou╌ed, Then hee then hee, which to her hart was e╌uer nee╌reſt: kiſt her againe, &amp; ſaid, and ſaid, Yes, yes La╌dy deereſt. yes, yes ij. then hee which to her hart was e╌uer nee╌reſt: kiſt her a╌gaine, &amp; ſaid, and ſaid, yes, yes La╌dy, deereſt. yes, yes Lady dee╌reſt.</p>
+                  </div>
+                  <div n="27" type="madrigal">
+                     <pb facs="tcp:150783:16"/>
+                     <head>XXVII.</head>
+                     <opener>Of 6. voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Ere╌ly my loue and I, my loue and I, vp╌on the plains were ſporting, vpon ij. vpon ij. were ſporting. were ij. chearfully the Nimphs and Faunes, the ij. oft times to vs reſor╌ted, oft ij. re╌ſorted oft ij. ſorrow did not vs aſſaile, not ij. wee taſted of each pleaſure: happie thoſe that may with vs, haue part of loues rich treaſure. haue part ij. of loues rich treaſure. happie thoſe ij. that may with vs, haue part of loues rich trea╌ſure. of loues rich trea╌ſure. of loues rich trea╌ſure.</p>
+                  </div>
+                  <div n="28" type="madrigal">
+                     <pb facs="tcp:150783:17"/>
+                     <head>XXVIII.</head>
+                     <opener>Of 6 voc. ALTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Vſicke ſome think no Muſick is, no Muſick is, Vnleſſe ſhee ſing of clip and kiſſe, Vnleſſe ij. vnleſſe, ij. vnleſſe ſhee ſing of clip and kiſſe, And bring to wanton tunes fie fie fie fie, Or tihha tah╌ha or ile crie: or tih╌ha: ij. or tihha ij. or ile crie: But let, but let ſuch rimes no more diſgrace, but ij. ſuch rimes no more diſgrace, Muſicke ſprung of heauenly race. Muſicke ij. Muſicke ſprung of heauen╌ly race.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:150783:17"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:150783:18"/>
+                  <pb facs="tcp:150783:18"/>
+                  <p>TENOR.</p>
+                  <p>The firſt ſet of English MADRIGALES: to 3. 4. 5. and 6. voices.</p>
+                  <p>
+                     <hi>Newly compoſed by Thomas Bateſon</hi> practicioner in the Art of <hi>Muſicke,</hi> and Organiſt of the Cathedral Church of <hi>Chriſt</hi> in the Citie of <hi>Cheſter.</hi>
+                  </p>
+                  <p>1604.</p>
+                  <p>IN LONDON PRINTED BY THOMAS ESTE.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150783:19"/>
+                  <head>THE TABLE.</head>
+                  <p>Of 6. voc.
+<list>
+                        <item>When <hi>Oriana</hi> walkt to take the ayer:<lb/> This Song was ſent to late, and ſhould haue been printed in the ſet of Orianaes: but being a work of this author, I haue placed it before this ſet of his Songs.</item>
+                     </list>
+                  </p>
+                  <list>
+                     <head>Songs to 3. voices.</head>
+                     <item>BEautie is a louely ſweet. I</item>
+                     <item>Loue would diſcharge the dutie of his hart. II</item>
+                     <item>The Nightingale ſo ſoone as Aprill bringeth. III</item>
+                     <item>Aye mee, my miſtreſſe ſcornes my loue. IIII</item>
+                     <item>Come follow mee faire Nymphes. V</item>
+                     <item>Your ſhining eyes and golden haire. VI</item>
+                  </list>
+                  <list>
+                     <head>Songs to 4. voices.</head>
+                     <item>Whether ſo faſt, ſee how the kindly flowres. VII</item>
+                     <item>Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe. VIII</item>
+                     <item>Downe from aboue falls <hi>Ioue</hi> in rayne. IX</item>
+                     <item>Adue ſweet loue, Adue. X</item>
+                     <item>If loue bee blinde, how hath hee then the ſight. XI</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 5. voices.</head>
+                     <item>Thoſe ſweet delightfull Lillies. XIII</item>
+                     <item>And muſt I needs depart then. XIIII</item>
+                     <item>Sweet <hi>Gemma,</hi> when I firſt beheld. Firſt part. XV</item>
+                     <item>Yet ſtay alway, be chained to my hart. Second part. XVI</item>
+                     <item>Strange were the life that euery man would like. XVII</item>
+                     <item>Alas where is my loue, where is my ſweeting. XVIII</item>
+                     <item>O fly not loue, O fly not mee. XIX</item>
+                     <item>Who proſtrate lyes at womens feet. XX</item>
+                     <item>Siſter awake, cloſe not your eyes. XXI</item>
+                  </list>
+                  <list>
+                     <head>
+                        <hi>Orianaes</hi> farewell.</head>
+                     <item>Hark, heare you not a heauenly harmony. XXII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 6. voices.</head>
+                     <item>Deare, if you wiſh my dying. XXIII</item>
+                     <item>Faire <hi>Hebe,</hi> when dame <hi>Flora</hi> meets. XXIIII</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XXV</item>
+                     <item>
+                        <hi>Thirſis, Thirſis</hi> on his faire <hi>Phillis.</hi> XXVI</item>
+                     <item>Merely my loue and I. XXVII</item>
+                     <item>Muſick ſome thincks no Muſick is. XXVIII</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150783:19"/>
+                  <head>
+                     <hi>TO MY HONORABLE AND MOST reſpected good friend: Sir VVilliam Norres Knight</hi> of the honorable order of the Bath: Thomas Bate<g ref="char:EOLhyphen"/>ſon wiſheth long lyfe, health and happineſſe, with increaſe of honor.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>YR, I am bould to preſent vnto you theſe few <hi>MADRIGALES,</hi> and I pray you as you haue heeretofore (rather for your exceeding loue to mee, then for any worth that I acknowledge of the Songs) giuen them your priuate applauſe &amp; liking, when I ſent them to you euer as they were compoſed in looſe papers, ſo you wil much more now, (for now in-deed when they come to the worlds eye and cenſure, they had more need of it then euer) Vouchſafe to giue them your good countenance and publick patronage. In trueth I muſt confeſſe, they are like young birds feared out of the neſt before they be well feathered, &amp; finde no place ſo fit to light on as on the braun<g ref="char:EOLhyphen"/>ches of your fauour: where (ſuch is your loue to mee and Muſick) I hope they wilbe ſo ſhrou<g ref="char:EOLhyphen"/>ded in the leaues of your good liking, that you will giue leaue neither to any rauenous Kite nor craftie fowler (I meane neither to any open mouthed <hi>Momus</hi> nor more ſlie detractor) to deuoure, or harme them, that cannot ſuccor nor ſhift for themſelues. I could wiſh them a Cage of as many ſweet ſinging <hi>Nightingales</hi> to ſalute your eares with the choiſeſt of delight<g ref="char:EOLhyphen"/>full Notes and the melody of moſt eare-pleaſing harmony, that your idle time might not paſſe without delight, if they might yeeld it to you. But whatſoeuer they are, yours they are, &amp; for you onely they were made. It was your good countenance that did encourage mee to this; Your loue to Muſick doth not onely chalenge it of mee, but euen the vttermoſt that Muſicks art can afford; which if it were in mee, I would moſt willingly offer to you; Now let theſe my affectionate indeuours be accepted, ſince this is all that I can performe: except the honoring of your Vertues, and obſeruance of your worthineſſe.</p>
+                  <closer>
+                     <signed>Yours in all loue and ſo obliged, <hi>Thomas Bateſon.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="tenor" type="partbook">
+                  <pb facs="tcp:150783:20"/>
+                  <div type="madrigal">
+                     <head>This ſong ſhould haue bene printed in the ſet of <hi>Orianaes.</hi>
+                     </head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hen <hi>Oriana:</hi> By <hi>Flora</hi> faire and ſweeteſt flowers were ſtrone, by ij. by ij. by ij. A long the way for her to tread vpon. The trees did bloſſom, Siluer riuers ran, the ij. The wind did gently play, the ij. vp<g ref="char:EOLhyphen"/>on her fan: And then for to delight her graces eare, her graces eare, The woods a temple ſeemd, the birds a quire. the birds a quire. the woods ij. the birds a quire. Then ſang the ſheperds and Nimphs of <hi>Di╌a╌na,</hi> and ij. and ij. and ij. and ij. Long liue faire <hi>O╌ri╌a╌na.</hi> Long ij. Long liue faire <hi>O╌ri╌a╌na.</hi> Long liue faire <hi>O╌ri╌a╌na.</hi>
+                     </p>
+                  </div>
+                  <div n="7" type="madrigal">
+                     <pb facs="tcp:150783:20"/>
+                     <head>VII.</head>
+                     <opener>Of 4. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hether ſo faſt, ſee how the kindly flowers perfume the Ayre, perfume ij. &amp; all to make thee ſtay: The climbing woodbind clipping all theſe bowers, clipping ij. clips thee likewiſe: clips ij. for feare thou paſſe a╌way. for ij. Fortune our friend, our foe will not gain<g ref="char:EOLhyphen"/>ſay. our foe ij. Stay but a while, <hi>Phaebe</hi> no teltale is: Shee her <hi>Endimion,</hi> Ile my <hi>Phaebe</hi> kiſſe. She her ij. I will my <hi>Phaebe</hi> kiſſe. ſtay but a while, <hi>Phaebe</hi> no teltale is, ſhee her <hi>Endimion,</hi> Ile my <hi>Phaebe</hi> kiſſe. She her ij. I will my <hi>Phaebe</hi> kiſſe.</p>
+                  </div>
+                  <div n="8" type="madrigal">
+                     <pb facs="tcp:150783:21"/>
+                     <head>VIII.</head>
+                     <opener>Of 4. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field: he cannot tend ſweet loues embrace, in ha<g ref="char:cmbAbbrStroke">̄</g>d with ſpear and ſhield. with ij. Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field, he cannot tend ſweet loues embrace, in hand with ſpeare and ſhield. with ij. The roaring Canons thunder out, thun╌der out, ij. ſuch terrours as not fit: a tender Impe of your regard, which dalling ſtill doth ſit. which ij. doth ſit. which ij. which ij. which ij.</p>
+                  </div>
+                  <div n="9" type="madrigal">
+                     <pb facs="tcp:150783:21"/>
+                     <head>IX.</head>
+                     <opener>Of 4. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>DOwne from aboue falls <hi>Ioue</hi> in rayne, falls ij. into faire <hi>Danaes</hi> lap amaine: into ij. into ij. Thereat ſhee ſtarts, thereat, yet Lam like ſtill: Lamb╌like ſtill: At laſt performeth all his will. at laſt ij. performeth ij. With hie and low ſuch golden guifts, ſuch ij. ſuch ij. will put their conſcience to the ſhift. will ij. will put their conſcience to the ſhift. their ij.</p>
+                  </div>
+                  <div n="10" type="madrigal">
+                     <pb facs="tcp:150783:22"/>
+                     <head>X.</head>
+                     <opener>Of 4. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg> Dew ſweet loue, a dew, a ij. A dew, a dew, O thus to part, kills my bleeding hart: O thus ij. O ij. my blee╌ding hart: Yet fates alas, will haue it ſo, will ij. yet ij. yet ij. Cruell their dome, cruell ij. ſo to de<g ref="char:EOLhyphen"/>cree: at once to part two louers true. at once ij. But ſince we needs muſt part, but ij. wee ij. once againe, once ij. a dew ſweet hart. a dew ſweet hart. a dew, a dew, a dew ſweet hart, a dew ſweet hart.</p>
+                  </div>
+                  <div n="11" type="madrigal">
+                     <pb facs="tcp:150783:22"/>
+                     <head>XI.</head>
+                     <opener>Of 4 voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>F loue be blind, how hath he then the ſight, the ſight, how hath he ij. with beauties beames my careleſſe hart to wound: to wound: my ij. Or if a boy, how hath he then the might, how ij. the might, how ij. The mightieſt conquerors to bring to ground. to bring to ground. the mightieſt ij. O no he is not blind, but I that leeſe my thought, the wayes that bring to reſtleſſe feares: my ij. nor yet a boy, nor ij. but I that liue in dread, that ij. mixed with hope, and ſeeke for ioy in teares. for ij. mixed with hope, and ſeeke for ioy in teares.</p>
+                  </div>
+                  <div n="12" type="madrigal">
+                     <pb facs="tcp:150783:23"/>
+                     <head>XII.</head>
+                     <opener>Of 4. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis</hi> farewell, I may no longer liue: I may ij. Yet if I dye, yet ij. faire <hi>Phillis</hi> I forgiue: faire ij. I liue to long, I ij. come gentle death and end: come ij. my endleſſe torments or my griefe amend my griefe amend. my endleſſe ij. my end╌ij. I liue to long, I liue ij. Come gentle death &amp; end: come gentle ij. my endleſſe torment, or my griefe amend. my griefe amend. my endleſſe ij. my endleſſe ij.</p>
+                     <trailer>Heere endeth the ſongs of .4 parts.</trailer>
+                  </div>
+                  <div n="13" type="madrigal">
+                     <pb facs="tcp:150783:23"/>
+                     <head>XIII.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>THoſe ſweet delightful Lillies, which nature gaue my <hi>Hhillis:</hi> my <hi>Phillis:</hi> which nature ij. which na: ij. Thoſe ſweet delightful Lillies, which na: ij. my <hi>Phillis:</hi> which na: ij. which na: ij. Ay mee, ij. ij. Ay mee, my <hi>Phillis</hi> each houre makes mee to lan╌guiſh: to lan╌guiſh: So greeuous is my paine and an╌guiſh. So ij. So ij. and an╌guiſh. So ij. Ay mee, ij. ij. Ay mee, my <hi>Phillis,</hi> each houre makes mee to lan╌guiſh. to lan╌guiſh. So greeuous is my paine and an╌guiſh. So ij. So ij. and an╌guiſh. So greeuous is my paine &amp; an╌guiſh.</p>
+                  </div>
+                  <div n="14" type="madrigal">
+                     <pb facs="tcp:150783:24"/>
+                     <head>XIIII.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>AND muſt I needs depart then, And ij. can pittie none come nye her: can ij. can ij. come nye her: can ij. come nie her: farewell, fare╌ij. fare╌ij. farewell alas deſert then, farewel ij. farewel ij. O break aſunder hart, to ſatiſ╌fie her. O ij. O ij. to ſatisfie her. to ij. to ij. to ij. to ij. farewel, ij. ij. farewel alas deſert then, farewel ij. fare╌ij. O break a╌ſunder hart, to ſatiſ╌fie her. O ij. O ij. to ſatisfie her. to ij. to ij. to ij. to ſatisfie her.</p>
+                  </div>
+                  <div n="15" type="madrigal">
+                     <pb facs="tcp:150783:24"/>
+                     <head>XV.</head>
+                     <opener>Of 5. voc. The firſt part. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Weet <hi>Gemma,</hi> O then ij. I ſaid the beſt, I ij. beſt, the beſt, but thou a╌las, a╌las, ij. ij. a<g ref="char:EOLhyphen"/>las, a╌las ſweet, thou doſt not regard my vow, goe goe let me not ſee, goe ij. goe ij. goe ij. Cruell though faireſt thee, faireſt thee, cru╌ij. cru╌ij. though faireſt thee. cru╌ell though faireſt thee.</p>
+                  </div>
+                  <div n="16" type="madrigal">
+                     <pb facs="tcp:150783:25"/>
+                     <head>XVI.</head>
+                     <opener>Of 5. voc. The ſecond part. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Et ſtay alway, yet ij, yet ij. bee chained to my hart, bee ij. with links of loue, with ij. of loue, with ij. that wee doe ne╌uer part. then Ile not call thee Serpent, Tiger cru╌ell, (O) Ti╌ger cru╌ell, but my ſweet <hi>Gemma,</hi> but my ij. and my deareſt Iu╌ell. but my ij. <hi>Gem<g ref="char:EOLhyphen"/>ma,</hi> but my ij. and my deareſt Iuell. deareſt Iuell.</p>
+                  </div>
+                  <div n="17" type="madrigal">
+                     <pb facs="tcp:150783:25"/>
+                     <head>XVII.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Trange were the life, ſtrange ij. ſtrange ij. ſtrange were the life, that eue╌rie man would like, more ſtrange the ſtate, more ij. that ſhould miſ╌like each one, that ſhould ij. each one, rare were the <hi>Iemme,</hi> rare were the <hi>Iemme,</hi> that euerie one would ſeeke, that ij. and little little worth, and ij. and lit╌tle ij. and lit╌tle ij. that all would let a╌lone, that all ij. ſweet were the meat, ij. that eue╌rie one wou ld chuſe, and ſowre the ſauſe, and ij. and ij. and ij. and ij. that all men would re╌fuſe. refuſe.</p>
+                  </div>
+                  <div n="18" type="madrigal">
+                     <pb facs="tcp:150783:26"/>
+                     <head>XVIII.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>ALas, ij. where is my Loue? where is my ſweeting? That hath ſtolne away my hart, God ſend vs meeting: meeting: that renuing my la<g ref="char:EOLhyphen"/>ment, that ij. with friendly greeting, with ij. She may releaſe my ſmart and all my weeping: ſhe ij. ſhe ij. But if my ſight ſhe flie, till hartles I die, till ij. My grieued ghoſt with ſhrikes &amp; dreadful crying, &amp; ij. ſhal murmure out complayning, to be reueng'd of all her deep diſdayning. to ij. to ij. to ij. to ij. her deep diſdaining.</p>
+                  </div>
+                  <div n="19" type="madrigal">
+                     <pb facs="tcp:150783:26"/>
+                     <head>XIX.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Flie not Loue, O flie not me, O flie not loue, ô flie not mee, O flie not loue, O flie not mee, O flie not me, not mee: ſtay but a while, but ij. but ij. but ij. O ſtay thee, ſtay but a while, but ij. but ij. O ſtay thee, &amp; heare a wretch complai<g ref="char:EOLhyphen"/>ning, and ij. his griefe through thy diſdai╌ning: O do not thus, do not thus vnfriendly vſe mee, O doe not thus vnfriendly, doe not thus vn╌friendlie vſe mee, O doe not thus, doe not thus vnfriendly vſe mee, to kiſſe mee once &amp; ſo re╌fuſe mee. to kiſſe ij. to kiſſe ij. and ſo re╌fuſe mee.</p>
+                  </div>
+                  <div n="20" type="madrigal">
+                     <pb facs="tcp:150783:27"/>
+                     <head>XX.</head>
+                     <opener>Of 5 voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Ho proſtrate lies at Womens feete, at ij. &amp; cals them darlings deare and ſweet, and ij. and cales ij. and ſweet, and cales them darlings deare and ſweet, deare and ſweet, and crauing grace, And prai╌ſing oft, and ij. and ij. a foo╌liſh face, a ij. are oftentimes deceiu'd at laſt, Then catch at naught and hould it faſt. then ij. and haold it faſt. Are oftentimes deceiu'd at laſt, Then catch at naught and hould it faſt. Then ij. and hould it faſt.</p>
+                  </div>
+                  <div n="21" type="madrigal">
+                     <pb facs="tcp:150783:27"/>
+                     <head>XXI.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Iſter a╌wake, &amp;c. The day her light diſclo<g ref="char:EOLhyphen"/>ſes, and the bright morning, doth a<g ref="char:EOLhyphen"/>riſe, doth a╌riſe. Out of her bed of Ro<g ref="char:EOLhyphen"/>ſes, her ij. See, See the cleere ſunne, the worlds bright Eie, in at our window peeping: in ij. in ij. Loe how hee bluſheth, to eſpie, to eſpie, vs, I╌dle wenches ſleeping, vs I╌dle ij. therfore awake make haſt I ſaye, and let vs without ſtaying, all in our gownes of greene ſo gaye, in╌to the Parke a╌maying, in╌to ij. in╌to ij. a may╌ing in╌to ij. in╌to ij. maying.</p>
+                  </div>
+                  <div n="22" type="madrigal">
+                     <pb facs="tcp:150783:28"/>
+                     <head>XXII.</head>
+                     <opener>Of 5. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>HArke, heare you not a heauenly harmonie, a heauenly harmony, Iſt <hi>Ioue</hi> think you, that plaies, that plaies vpon the Sphers? heauens, ij. Heauens is not this, is not this, heauens is not this, is not this a heauen╌ly melodie, Wher <hi>Ioue</hi> himſelf a part, wher ij. wher ij. a part. in Muſick bears, hark, how all doe ioyne together in the praiſe, Of <hi>O╌rianaes</hi> life and happie daies. of ij. her life and happie daies. Then ſing ye ſhepherds &amp; Nimphs of <hi>Di<g ref="char:EOLhyphen"/>a╌na,</hi> then ij. then ij. In heauen liues <hi>O╌ri╌a╌na,</hi> liues <hi>Oria╌na,</hi> in ij. in ij. in ij. in ij. in ij. in ij. <hi>O╌ri╌a╌nae.</hi>
+                     </p>
+                     <trailer>Heere endeth the ſongs of 5. parts.</trailer>
+                  </div>
+                  <div n="23" type="madrigal">
+                     <pb facs="tcp:150783:28"/>
+                     <head>XXIII.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eare, if you wiſh, if you wiſh my dying, Deare, ij. my dying, in vaine your wiſh redownds, in vaine your prayer, for can he dye that breathes not vitall ayer: that ij. that ij. that ij. that breathes not vital ayer: Then with thoſe eyes that ſlew mee, new lyfe infuſeing, renew mee: renew mee, re╌ij. re╌ij. re<g ref="char:EOLhyphen"/>new mee: ſo ſhall we both obtaine, obtaine our wiſhed pleaſure, our ij. you my death ioy╌ing, and I my lyfes ſweet treaſure. and ij. and ij. and ij. and I my lyfes ſweet trea╌ſure.</p>
+                  </div>
+                  <div n="24" type="madrigal">
+                     <pb facs="tcp:150783:29"/>
+                     <head>XXIIII.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Aire <hi>He╌be,</hi> when dame <hi>Flora</hi> meets, dame ij. dame ij. ſhee trips. and leapes ſhee ij. ſhee trips ij. as gallants doe, as ij. Vp to the hills &amp; down againe, &amp; down a<g ref="char:EOLhyphen"/>gaine, to the vallaies runs ſhe too and fro: runs ſhee too and fro: runs ij. &amp; fro: But out alas, but out a╌las, but out a╌las, a╌las, with cark &amp; care, and care: Peace, peace, laugh no more, let prancks goe by, let ij. let ij. let ij. ſlow crauling age, forbids ſuch ware. ſuch ware. crauling age forbids ſuch ware.</p>
+                  </div>
+                  <div n="25" type="madrigal">
+                     <pb facs="tcp:150783:29"/>
+                     <head>XXV.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis</hi> farewell I may no longer liue, no longer liue: Yet if I dye, yet ij. faire <hi>Phillis</hi> I forgiue, faire ij. faire ij. I liue to long, come gentle death &amp; end: come ii. and end: come gentle ij. My endleſſe torment or my griefe a╌mend. my griefe a╌mend. my ij. or my griefe a╌mend. or my ij. or my ij. my griefe a╌mend.</p>
+                  </div>
+                  <div n="26" type="madrigal">
+                     <pb facs="tcp:150783:30"/>
+                     <head>XXVI.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>THirſis, Thir╌ſis,</hi> on his faire <hi>Phillis</hi> breſt repoſing, Sweetly did languiſh, did lan╌guiſh, when ſhee in loues ſweet anguiſh, him kiſsing gently ſaid thus, ſaid thus with ſugred gloſing, <hi>Thir╌ſis</hi> O tell me thy true loue beſt a<g ref="char:EOLhyphen"/>prooued, thy ij. Art not thou, ij. ij. my be╌loued, Then hee, ij. which to her hart was euer nee╌reſt, was ij. kiſt her againe, and ſaid, Yes, yes La╌dy deereſt. Yes, yes La╌dy dee╌reſt, Yes, yes La<g ref="char:EOLhyphen"/>dy, deereſt. Then hee, ij. which to her hart was euer nee╌reſt, was ij. kiſt her a<g ref="char:EOLhyphen"/>gaine, and ſaid, Yes, yes La╌dy deereſt. Yes, ij. dee╌reſt. yes, yes ij. deereſt.</p>
+                  </div>
+                  <div n="27" type="madrigal">
+                     <pb facs="tcp:150783:30"/>
+                     <head>XXVII.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Erely my: Vpon the plaines were ſporting, ij. weare ſporting, were ij. chearfully the Nimphs and Faunes, the ij. the ij. oft times to vs reſorted, oft ij. ſorrow did not vs aſſaile, wee taſted of each pleaſure, happie thoſe ij. that may with vs haue part of loues rich treaſure. of loues ij. haue part ij. happie thoſe, hap╌ij. that may with vs haue part, of loues rich treaſure. of loues ij. haue part ij. trea╌ſure.</p>
+                  </div>
+                  <div n="28" type="madrigal">
+                     <pb facs="tcp:150783:31"/>
+                     <head>XXVIII.</head>
+                     <opener>Of 6. voc. TENOR.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Vſicke ſome thinke no Muſicke is, Vnleſſe ſhee ſing of clip and kiſſe, vnleſſe ſhee ſing of clip and kiſſe, vn<g ref="char:EOLhyphen"/>leſſe ſhee ſing of clip and kiſſe, of clip and kiſſe, vnleſſe ij. And bring to wanton tunes fie fie, to wanton tunes fie fie, fie ſie, Or ticha tacha, or tihha ta╌ha, or ile crie, or ile crie, or tih: ij. ile crie, But let, but let ſuch rimes no more diſgrace, but ij. but ij. Muſicke ſprung of heauenly race. Muſick ij. Muſicke ſprung of heauenly race of heauenly race.</p>
+                     <trailer>FINIS.</trailer>
+                  </div>
+                  <pb facs="tcp:150783:31"/>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:150783:32"/>
+                  <p>BASSVS.</p>
+                  <p>The firſt ſet of English MADRIGALES: to 3. 4. 5. and 6. voices.</p>
+                  <p>
+                     <hi>Newly compoſed by Thomas Bateſon</hi> practicioner in the Art of <hi>Muſicke,</hi> and Organiſt of the Cathedral Church of <hi>Chriſt</hi> in the Citie of <hi>Cheſter.</hi>
+                  </p>
+                  <p>1604.</p>
+                  <p>IN LONDON PRINTED BY THOMAS ESTE.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150783:33"/>
+                  <head>THE TABLE.</head>
+                  <p>Of 6. voc.
+<list>
+                        <item>When <hi>Oriana</hi> walkt to take the ayer:<lb/> This Song was ſent to late, and ſhould haue been printed in the ſet of Orianaes: but being a work of this author, I haue placed it before this ſet of his Songs.</item>
+                     </list>
+                  </p>
+                  <list>
+                     <head>Songs to 3. voices.</head>
+                     <item>BEautie is a louely ſweet. I</item>
+                     <item>Loue would diſcharge the dutie of his hart. II</item>
+                     <item>The Nightingale ſo ſoone as Aprill bringeth. III</item>
+                     <item>Aye mee, my miſtreſſe ſcornes my loue. IIII</item>
+                     <item>Come follow mee faire Nymphes. V</item>
+                     <item>Your ſhining eyes and golden haire. VI</item>
+                  </list>
+                  <list>
+                     <head>Songs to 4. voices.</head>
+                     <item>Whether ſo faſt, ſee how the kindly flowres. VII</item>
+                     <item>Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe. VIII</item>
+                     <item>Downe from aboue falls <hi>Ioue</hi> in rayne. IX</item>
+                     <item>A due ſweet loue, A due. X</item>
+                     <item>If loue bee blinde, how hath hee then the ſight. XI</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 5. voices.</head>
+                     <item>Thoſe ſweet delightfull Lillies. XIII</item>
+                     <item>And muſt I needs depart then. XIIII</item>
+                     <item>Sweet <hi>Gemma,</hi> when I firſt beheld. Firſt part. XV</item>
+                     <item>Yet ſtay alway, be chained to my hart. Second part. XVI</item>
+                     <item>Strange were the life that euery man would like. XVII</item>
+                     <item>Alas where is my loue, where is my ſweeting. XVIII</item>
+                     <item>O fly not loue, O fly not mee. XIX</item>
+                     <item>Who proſtrate lyes at womens feet. XX</item>
+                     <item>Siſter awake, cloſe not your eyes. XXI</item>
+                  </list>
+                  <list>
+                     <head>
+                        <hi>Orianaes</hi> farewell.</head>
+                     <item>Hark, heare you not a heauenly harmony. XXII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 6. voices.</head>
+                     <item>Deare, if you wiſh my dying. XXIII</item>
+                     <item>Faire <hi>Hebe,</hi> when dame <hi>Flora</hi> meets. XXIIII</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XXV</item>
+                     <item>
+                        <hi>Thirſis, Thirſis</hi> on his faire <hi>Phillis.</hi> XXVI</item>
+                     <item>Merely my loue and I. XXVII</item>
+                     <item>Muſick ſome thincks no Muſick is. XXVIII</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150783:33"/>
+                  <head>
+                     <hi>TO MY HONORABLE AND MOST reſpected good friend: Sir VVilliam Norres Knight</hi> of the honorable order of the Bath: Thomas Bate<g ref="char:EOLhyphen"/>ſon wiſheth long lyfe, health and happineſſe, with increaſe of honor.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>YR, I am bould to preſent vnto you theſe few <hi>MADRIGALES,</hi> and I pray you as you haue heeretofore (rather for your exceeding loue to mee, then for any worth that I acknowledge of the Songs) giuen them your priuate applauſe &amp; liking, when I ſent them to you euer as they were compoſed in looſe papers, ſo you wil much more now, (for now in-deed when they come to the worlds eye and cenſure, they had more need of it then euer) Vouchſafe to giue them your good countenance and publick patronage. In trueth I muſt confeſſe, they are like young birds feared out of the neſt before they be well feathered, &amp; finde no place ſo fit to light on as on the braun<g ref="char:EOLhyphen"/>ches of your fauour: where (ſuch is your loue to mee and Muſick) I hope they wilbe ſo ſhrou<g ref="char:EOLhyphen"/>ded in the leaues of your good liking, that you will giue leaue neither to any rauenous Kite nor craftie fowler (I meane neither to any open mouthed <hi>Momus</hi> nor more ſlie detractor) to deuoure, or harme them, that cannot ſuccor nor ſhift for themſelues. I could wiſh them a Cage of as many ſweet ſinging <hi>Nightingales</hi> to ſalute your eares with the choiſeſt of delight<g ref="char:EOLhyphen"/>full Notes and the melody of moſt eare-pleaſing harmony, that your idle time might not paſſe without delight, if they might yeeld it to you. But whatſoeuer they are, yours they are, &amp; for you onely they were made. It was your good countenance that did encourage mee to this; Your loue to Muſick doth not onely chalenge it of mee, but euen the vttermoſt that Muſicks art can afford; which if it were in mee, I would moſt willingly offer to you; Now let theſe my affectionate indeuours be accepted, ſince this is all that I can performe: except the honoring of your Vertues, and obſeruance of your worthineſſe.</p>
+                  <closer>
+                     <signed>Yours in all loue and ſo obliged, <hi>Thomas Bateſon.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="bass" type="partbook">
+                  <div type="madrigal">
+                     <pb facs="tcp:150783:34"/>
+                     <head>This ſong ſhould haue ben printed in the ſet of <hi>Orianaes.</hi>
+                     </head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hen <hi>Oriana:</hi> By <hi>Flora</hi> faire and ſweeteſt flowers were ſtrone, by <hi>Flora</hi> ij. were ſtrone, A long the way for her to tread vpon: The trees did bloſſom, ſiluer riuers ran, The wind did gently play vpon her fan: And then for to delight her graces eare, and then ij. The woods a temple ſeemd, the birds a quire, The woods ij. Then ſang the Shepherds and Nimphs of <hi>Di╌a╌na,</hi> and ij. and Nimphs of <hi>Di╌a╌na,</hi> Long liue faire <hi>O╌ri╌a╌na</hi>╌faire <hi>O╌ri╌a╌na.</hi> Long ij. faire <hi>O╌ri╌a╌na.</hi>
+                     </p>
+                  </div>
+                  <div n="1" type="madrigal">
+                     <pb facs="tcp:150783:34"/>
+                     <head>I.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eautie is a louely ſweet, where pure white &amp; crimſon meet: where ij. Beautie is a louely ſweet, where pure white and crimſon meet: where ij. Ioyn'd with fauour of the face, chiefeſt flour of femall race: chiefeſt ij. Oh chiefeſt flour of fe<g ref="char:EOLhyphen"/>mall race. But if vertue might be ſeene, but ij. it would more, it ij. delight the eine, it would more, it ij. it ij. it would more delight y<hi rend="sup">e</hi> eine. But if vertue might be ſeene, but ij. it wold more, it ij. delight the eine, it would more, it ij. it ij. it ij. delight the eine.</p>
+                  </div>
+                  <div n="2" type="madrigal">
+                     <pb facs="tcp:150783:35"/>
+                     <head>II.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Oue would diſcharge the dutie of his hart, in beauties praiſe, whoſe greatneſſe doth denie, words to his thoughts, words ij. and thoughts to his deſert: and ij. which high conceipt ſince nothing can ſupply, which ij. conceipt which ij. ſince nothing can ſupply, Loue heere conſtraind through conqueſt to confeſſe: bids ſilence ſigh that tongue cannot ex<g ref="char:EOLhyphen"/>preſſe bids ij. bids ij. that tongue cannot expreſſe, that ij. Loue heere conſtraind through conqueſt to confeſſe: bids ſilence ſigh that tongue cannot ex<g ref="char:EOLhyphen"/>preſſe: bids ij. bids ij. that tongue cannot expreſſe. that ij.</p>
+                  </div>
+                  <div n="3" type="madrigal">
+                     <pb facs="tcp:150783:35"/>
+                     <head>III.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He <hi>Nightingale</hi> ſo ſoone as <hi>Aprill</hi> bringeth, bring<g ref="char:EOLhyphen"/>eth, ſo ij. bringeth: vnto her reſted ſence, a perfect waking: a ij. vnto ij. while late bare earth, proud of new clothing ſpringeth: Sings out her woes, ſings ij. a thorne her ſong booke ma<g ref="char:EOLhyphen"/>king, and mournfully bewayling, bewayling, and ij. bewayling, her throat in tunes expreſſeth, what griefe her breſt oppreſſeth. what ij. what ij. what ij. what ij. what griefe her breſt oppreſſeth.</p>
+                  </div>
+                  <div n="4" type="madrigal">
+                     <pb facs="tcp:150783:36"/>
+                     <head>IIII.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Ye mee, ij. ij. ij. Aye mee, my miſtris ſcornes my loue, my loue, I feare ſhee will moſt cruell proue: I ij. ſhe wil moſt cruel proue: Aye me: ij I weep, I ſigh, I greeue &amp; groane I ij. I weepe, I ſigh, I greeue and groane, yet ſhee regardeth not my moane: my moane, then loue adew: ij. ij. ij. adew it fits not mee, to weepe for her that laughs at thee. to ij. to ij. to ij. to weepe for her, that laughs at thee. Loue, I loue, but I Loue kild the deere.</p>
+                  </div>
+                  <div n="5" type="madrigal">
+                     <pb facs="tcp:150783:36"/>
+                     <head>V.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome follow mee faire Nymphs, come ij. hie run a paſe, hie ij. hie ij. hie ij. <hi>Diana</hi> hunting honoreth honoreth this chaſe: <hi>Dia╌na</hi> ij. ſoftlie, ſoft<g ref="char:EOLhyphen"/>lie for feare her game we rowſe, we rowſe; ſoftlie ij. we rowſe: lodgd in this groue of briers &amp; bowes. Hark how the huntſmen, how ij. winds their hornes, ſee how the deere, ſee how the deere mounts ore the thornes: the black ij. ij. O ho O ho he pincht thee ther, Gowen ran wel, oh Gowen ij. oh ij. but I Loue kild the deere, y<hi rend="sup">e</hi> blacke. ij. ij. O ho O ho he pincht thee ther, Go<g ref="char:EOLhyphen"/>wen ran wel, oh Gowen ij. oh Gowen ranwell, but I Loue kild the deere: but I</p>
+                  </div>
+                  <div n="6" type="madrigal">
+                     <pb facs="tcp:150783:37"/>
+                     <head>VI.</head>
+                     <opener>Of 3. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Our ſhining eies and gowlden haire, your Lillie roſed lipps moſt faire: your ij. your other beauties that excell, your ij. men can not chuſe, but like them well. ij men ij but when for them, they ſay theile die: ij. beleeue them not they doe but lie. be ij. be ij. they do but lie. but when for them, they ſay theile die: ij. beleeue them not they doe but lie. be ij. be ij. they doe but lie.</p>
+                     <trailer>Heere endeth the ſongs of 3. parts.</trailer>
+                  </div>
+                  <div n="7" type="madrigal">
+                     <pb facs="tcp:150783:37"/>
+                     <head>VII.</head>
+                     <opener>Of 4. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hether ſo faſt: The climbing woodbind clipping all theſe bowers, clipping ij. clips thee likewiſe: for feare thou paſſe a╌way. Our foe will not gainſay, will ij. Stay but a while, Shee her <hi>Endimion,</hi> Ile my <hi>Phaebe</hi> kiſſe, I will my <hi>Phaebe</hi> kiſſe: Stay but a while, ſhee her <hi>Endimion,</hi> Ile my <hi>Phaebe</hi> kiſſe: I will my <hi>Phaebe</hi> kiſſe.</p>
+                  </div>
+                  <div n="8" type="madrigal">
+                     <pb facs="tcp:150783:38"/>
+                     <head>VIII.</head>
+                     <opener>Of 4. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field: hee cannot tend ſweet loues embrace, in hand with ſpeare and ſhield. Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe, for <hi>Mars</hi> is gon toth' field: hee cannot tend ſweet loues embrace, in hand with ſpeare and ſhield. The roring Canons thun╌der out ij. out: ſuch terrours as not fit: a ten╌der Impe of your regard, which dalling ſtill doth ſit. which ij. doth ſit. ij. doth ſit.</p>
+                  </div>
+                  <div n="9" type="madrigal">
+                     <pb facs="tcp:150783:38"/>
+                     <head>IX.</head>
+                     <opener>Of 4. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Owne from aboue, falls <hi>Ioue</hi> in rayne, in╌to faire <hi>Danaes</hi> lap amaine: into ij. ſhee ſtarts thereat, yet Lamb╌like ſtill, Lamb╌like ſtill, at laſt performeth all his will. his will. Both hie and low ſuch golden guifts, ſuch: ij. will put their conſcience to their ſhifts. will put their conſcience to their ſhifts. their conſcience to their ſhifts.</p>
+                  </div>
+                  <div n="10" type="madrigal">
+                     <pb facs="tcp:150783:39"/>
+                     <head>X.</head>
+                     <opener>Of 4. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg> Dew a dew, ſweet loue, a dew, O thus to part, kills my bleeding hart: kills ij. Yet fates a╌las, will haue it ſo, yet ij. Cruell their dome ſo to de╌cree, at once to part, to part at once, to part two louers true. But ſince wee needs muſt part, wee needs muſt part, once againe, once againe, once a<g ref="char:EOLhyphen"/>gaine, a dew ſweet hart. a dew, ſweet hart.</p>
+                  </div>
+                  <div n="11" type="madrigal">
+                     <pb facs="tcp:150783:39"/>
+                     <head>XI.</head>
+                     <opener>Of 4 voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>F loue be blind, how hath he then the ſight, the ſight, with beauties beames, my careleſſe hart to wound: my care╌ij: Or if a boy, how hath he then the might, how ij. the might, the mighti'ſt conquerors to bring to ground. the ij. to bring to ground. O no he is not blind, but I that leeſe, but ij. my thoughts, the wayes that bring to reſtleſſe feares: Nor yet a boy, nor ij. but I that liue in dread, mixed with hope, and ſeeke for ioy in teares. for ij. and ſeeke for ioy in teares.</p>
+                  </div>
+                  <div n="12" type="madrigal">
+                     <pb facs="tcp:150783:40"/>
+                     <head>XII.</head>
+                     <opener>Of 4. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis,</hi> fare well, I may no longer liue, I may ij. Yet if I dye, yet ij. faire <hi>Phillis</hi> I forgiue: I liue to long, come gentle death and end, my endleſſe torment, or my griefe amend. my endleſſe ij. my endleſſe torment, or my griefe amend. I liue to long, Come gentle death &amp; end, my endleſſe torment, or my griefe, a╌mend. my endleſſe ij. or my ij. my endleſſe torment, or my griefe a╌mend.</p>
+                     <trailer>Heere endeth the ſongs of 4 parts.</trailer>
+                  </div>
+                  <div n="13" type="madrigal">
+                     <pb facs="tcp:150783:40"/>
+                     <head>XIII.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>Hoſe ſweet: &amp;c. Which nature gaue my <hi>Phillis:</hi> which ij. which nature gaue, which ij. my <hi>Phillis:</hi> which nature gaue my <hi>Phil╌lis,</hi> which ij. which ij. which ij. my <hi>Phillis,</hi> Aye mee, ij. my <hi>Phil╌lis,</hi> each houre makes mee to languiſh: So greeuous is my paine and anguiſh: So ij, my paine, my paine and anguiſh. Ay mee, ij. my <hi>Phillis,</hi> each houre makes mee to lan╌guiſh: So greeuous is my paine, and anguiſh. So ij. my paine, my paine and anguiſh.</p>
+                  </div>
+                  <div n="14" type="madrigal">
+                     <pb facs="tcp:150783:41"/>
+                     <head>XIIII.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>AND muſt I needs depart then, And ij. can pittie none come nye her: can ij. can ij. farewell, ij. farewell, alas deſeart then, farewell, ij. farewell, alas fare<g ref="char:EOLhyphen"/>well alas, alas deſeart then: O break a╌ſunder heart to ſa╌tis╌fie her. O break ij. to ſa╌tisfie her. to ſatis╌fie her, to ſa╌tis╌fie her, farewel, farewel, farewel, alas deſert then, farewel alas deſeart then, farewel, a<g ref="char:EOLhyphen"/>las farewel, a╌las a╌las deſeart then, O break aſunder hart, to ſatis╌fie her. O ij. to ſa╌tis╌fie her, to ſatisfie her, to ſa╌tis╌fie her.</p>
+                  </div>
+                  <div n="15" type="madrigal">
+                     <pb facs="tcp:150783:41"/>
+                     <head>XV.</head>
+                     <opener>Of 5. voc. The firſt part. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Weet <hi>Gemma,</hi> &amp;c. O then, O then, I ſaid, the beſt I ij. the beſt, but thou alas, alas, a╌las, a╌las, a las, ſweet, thou doſt not regard my vow, goe, goe, let mee not ſee, goe, goe ij. let mee not ſee, Cru<g ref="char:EOLhyphen"/>ell though fayreſt thee. Cru╌ell ij. fay╌reſt thee.</p>
+                  </div>
+                  <div n="16" type="madrigal">
+                     <pb facs="tcp:150783:42"/>
+                     <head>XVI.</head>
+                     <opener>Of 5. voc. The ſecond part. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Et ſtay alway, Yet ſtay alway, yet ſtay alway, yet ſtay alway, bee chained to my heart, with links of loue, with links of loue, that wee doe neuer part: Then Ile not call thee Serpent, Tiger cruell, (O) Ti╌ger cruell, but my ſweet <hi>Gemma,</hi> and my deereſt Iuell. but my ſweet <hi>Gem╌ma,</hi> and my deareſt Iu╌ell.</p>
+                  </div>
+                  <div n="17" type="madrigal">
+                     <pb facs="tcp:150783:42"/>
+                     <head>XVII.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Trange were the life, ſtrange, ſtrange were the life, that eu'╌rie man would like, more ſtrange the ſtate, more ij. that ſhould miſ╌like each one, rare were the <hi>Iemme,</hi> rare were ij. that euerie one would ſeeke, would ſeeke, and little lit╌tle worth, and little ij. and little ij. that all would let a╌lone, ſweet were the meat, ſweet ij. that eue╌rie one would chooſe, and ſowre the ſauſe, and ij. and ſower ij. that all men would re╌fuſe.</p>
+                  </div>
+                  <div n="18" type="madrigal">
+                     <pb facs="tcp:150783:43"/>
+                     <head>XVIII.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Las, where is my Loue? where is my ſweeting? That hath ſtolne away my hart, meeting: meeting: that renuing my lament, with friendly greeting, She may releaſe my ſmart and all my weeping: ſhe ij. But if my ſight ſhe flie, till hartles I die, till ij. My grieued ghoſt with ſhrikes &amp; dreadful cry╌ing, and dreadful crying, &amp; dreadful ij. ſhal murmure out complayning, to be reueng'd of her diſ<g ref="char:EOLhyphen"/>dayning<g ref="char:punc">▪</g> to bee reueng'd of all her deepe diſdayning, to ij. deepe diſdayning to bee reueng'd of all her deepe diſdaining.</p>
+                  </div>
+                  <div n="19" type="madrigal">
+                     <pb facs="tcp:150783:43"/>
+                     <head>XIX.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Flie not Loue, O flie not mee, O flie not loue, O flie not mee, O flie not mee, ſtay but a while, but a while, but a while, but ij. but ij. but a while, Oh ſtay thee, &amp; heare a wretch complai╌ning, and ij. his griefe through thy diſdai╌ning: O do not thus, do not thus vnfriendly vſe mee, doe not thus vnfriendly vſe mee, O doe not thus, doe not thus, ij. vnfriendly vſe mee, to kiſſe mee once and ſo re╌fuſe mee. to kiſſe mee once, and ſo re╌fuſe mee.</p>
+                  </div>
+                  <div n="20" type="madrigal">
+                     <pb facs="tcp:150783:44"/>
+                     <head>XX.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Ho proſtrate lies at Womens feete, at ij. &amp; cals them darlings deare and ſweet, and ij. and calls ij. and calls them darlings deare and ſweet, and crauing grace, And prai╌ſing oft, and prai╌ſing oft, a fooliſh face, and praiſing oft, a foo╌liſh face, are of╌ten times deceiu'd at laſt, then catch at naught and hould it faſt. are often times deceiu'd at laſt, then catch at naught and hould it faſt.</p>
+                  </div>
+                  <div n="21" type="madrigal">
+                     <pb facs="tcp:150783:44"/>
+                     <head>XXI.</head>
+                     <opener>Of 5. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Iſter awake &amp;c. See, ſee See the cleere Sunne, the worlds bright Eie, in at our window peeping: in at ij. Loe how he bluſheth, to eſpie vs idle wenches ſleeping, vs idle wenches ſlee╌ping, therfore a╌wake make haſt I ſay, and let vs without ſtay<g ref="char:EOLhyphen"/>ing, into the Parke a Maying. into ij. in╌to the Park a Maying, a Maying.</p>
+                  </div>
+                  <div n="22" type="madrigal">
+                     <pb facs="tcp:150783:45"/>
+                     <head>XXII.</head>
+                     <opener>Of 5 voc. <hi>Orianaes</hi> farewell. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Ark, heare you not a heauenly harmony, a ij. Iſt <hi>Ioue</hi> think you that plaies, that plaies, that plaies vp╌on the Spheares, Heauens, heauens is not this, heauens ij. heauenly melo╌die, Where <hi>Ioue</hi> himſelfe a part in Mu╌ſick beares, a part in Muſick beares, hark, how all doe ioyne together in the praiſe, Of <hi>O╌ri╌anaes</hi> life and happie daies. of ij. Then ſing ye ſhep<g ref="char:EOLhyphen"/>heards and Nimphs of <hi>Di╌a╌na,</hi> and Nimphs of <hi>Di╌a╌na,</hi> then ij. In heauen liues <hi>O╌ri╌a╌na.</hi> in ij. in ij. in ij. In heauen liues <hi>O╌ri╌ana<g ref="char:punc">▪</g>
+                        </hi> in ij. in ij.</p>
+                     <trailer>Heere endeth the ſongs of 5. parts.</trailer>
+                  </div>
+                  <div n="23" type="madrigal">
+                     <pb facs="tcp:150783:45"/>
+                     <head>XXIII.</head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eare if you wiſh, if you wiſh my dying, Deare, ij. In vaine your wiſh redownds, in ij. in vaine your prayer, for can hee die, that breath's not vitall ayer? that ij. that ij. Then with thoſe eyes that ſlew mee, then ij. new lyfe in╌fuſeing, renew me: renew mee: So ſhall we both obtaine our wiſhed pleaſure, our ij. you my death ioying, and I my lifes ſweet treaſure. and ij. and I and I my lyfes ſweet treaſure. my lifes ſweet treaſure.</p>
+                  </div>
+                  <div n="24" type="madrigal">
+                     <pb facs="tcp:150783:46"/>
+                     <head>XXIIII.</head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Aire <hi>He╌be,</hi> when dame <hi>Flora</hi> meets, dame <hi>Flora</hi> meets, ſhee trips &amp; leaps, ſhee ij. ſhee ij. as gallants doe, ſhe ij. as gallants doe: Vp to the hils, and down againe, vp to ij. to the vallaies runs ſhee too &amp; fro, runs ſhe too and fro: too and fro, runs ſhee too and froe. But out a╌las, but out ij. alas, with cark &amp; care, with ij. Peace, laugh no more, no more, let prancks goe by, let ij. let ij. ſlow crauling age, for╌bids ſuch ware. ſlow crauling ij. forbids ſuch ware.</p>
+                  </div>
+                  <div n="25" type="madrigal">
+                     <pb facs="tcp:150783:46"/>
+                     <head>XXV.</head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis</hi> farewell I may no longer liue, I may no longer liue, Yet if I dye, if I dye, faire <hi>Phillis</hi> I forgiue: faire ij. faire ij. I liue to long, come gentle death and end, come ij. and end, come ij. my end╌les torment, or my grief amend. my endleſſe ij. my endleſſe ij. or my griefe a mend. my griefe amend. or my ij. a╌mend. my griefe a╌mend.</p>
+                  </div>
+                  <div n="26" type="madrigal">
+                     <pb facs="tcp:150783:47"/>
+                     <head>XXVI.</head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">T</seg>Hir╌ſis, Thir╌ſis,</hi> on his faire <hi>Phillis</hi> breſt re<g ref="char:EOLhyphen"/>poſing, ſweetly did lan╌guiſh, ſweetly ij. did languiſh, when ſhe in loues ſweet anguiſh, him kiſsing gently, ſaid thus, him kiſ: ij. <hi>Thir<g ref="char:EOLhyphen"/>ſis</hi> O tell me, thy true loue beſt aprooued, thy true ij. art not thou, art not thou my beloued: Then hee which to her hart was e╌uer neereſt: kiſt her againe, &amp; ſaid, kiſt her againe, and ſaid, and ſayd, Yes, yes, yes, yes, La╌dy dee╌reſt<g ref="char:punc">▪</g> yes, yes ij Then hee which to her hart was e╌uer neereſt: kiſt her againe, and ſaid, kiſt her againe and ſaid, and ſaid, yes yes, yes, yes, La╌dy dee╌reſt. yes, yes, La╌dy deereſt.</p>
+                  </div>
+                  <div n="27" type="madrigal">
+                     <pb facs="tcp:150783:47"/>
+                     <head>XXVII.</head>
+                     <opener>Of 6 voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Erely &amp;c. Vpon the plains were ſporting, were ſpor╌ting, chearfully the Nimphs &amp; Faunes, the Nimphs and Faunes, oft times to vs reſorted, to vs reſor╌ted, ſorrow did not vs aſſaile, aſſaile, aſſayle, we taſted of each pleaſure. happie thoſe that may with vs haue part of loues rich treaſure. rich treaſure. happie thoſe that may with vs haue part of loues, rich treaſure. rich treaſure.</p>
+                  </div>
+                  <div n="28" type="madrigal">
+                     <pb facs="tcp:150783:48"/>
+                     <head>XXVIII.</head>
+                     <opener>Of 6. voc. BASSVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>V╌ſick ſome think no Mu╌ſick is, vnleſſe ſhe ſing of clip &amp; kiſſe, vnleſſe ij. And bring to wanton tunes fie fie, or tihha tah╌ha, or ile crye: or tihha ij. or tihha ij. or ile crye: But let, but let ſuch rimes no more diſgrace, ſuch ij. Muſick ſprung of heauenly race. Muſick ij. of heauenly race. of heauenly race.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:150783:49"/>
+                  <p>QVINTVS.</p>
+                  <p>The firſt ſet of English MADRIGALES: to 3. 4. 5. and 6. voices.</p>
+                  <p>
+                     <hi>Newly compoſed by Thomas Bateſon</hi> practicioner in the Art of <hi>Muſicke,</hi> and Organiſt of the Cathedral Church of <hi>Chriſt</hi> in the Citie of <hi>Cheſter.</hi>
+                  </p>
+                  <p>1604.</p>
+                  <p>IN LONDON PRINTED BY THOMAS ESTE.</p>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:150783:50"/>
+                  <head>THE TABLE.</head>
+                  <p>Of 6. voc.
+<list>
+                        <item>When <hi>Oriana</hi> walkt to take the ayer:<lb/> This Song was ſent to late, and ſhould haue been printed in the ſet of Orianaes: but being a work of this author, I haue placed it before this ſet of his Songs.</item>
+                     </list>
+                  </p>
+                  <list>
+                     <head>Songs to 3. voices.</head>
+                     <item>BEautie is a louely ſweet. I</item>
+                     <item>Loue would diſcharge the dutie of his hart. II</item>
+                     <item>The Nightingale ſo ſoone as Aprill bringeth. III</item>
+                     <item>Aye mee, my miſtreſſe ſcornes my loue. IIII</item>
+                     <item>Come follow mee faire Nymphes. V</item>
+                     <item>Your ſhining eyes and golden haire. VI</item>
+                  </list>
+                  <list>
+                     <head>Songs to 4. voices.</head>
+                     <item>Whether ſo faſt, ſee how the kindly flowres. VII</item>
+                     <item>Dame <hi>Venus</hi> hence to <hi>Paphos</hi> goe. VIII</item>
+                     <item>Downe from aboue falls <hi>Ioue</hi> in rayne. IX</item>
+                     <item>Adue ſweet loue, Adue. X</item>
+                     <item>If loue bee blinde, how hath hee then the ſight. XI</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 5. voices.</head>
+                     <item>Thoſe ſweet delightfull Lillies. XIII</item>
+                     <item>And muſt I needs depart then. XIIII</item>
+                     <item>Sweet <hi>Gemma,</hi> when I firſt beheld. Firſt part. XV</item>
+                     <item>Yet ſtay alway, be chained to my hart. Second part. XVI</item>
+                     <item>Strange were the life that euery man would like. XVII</item>
+                     <item>Alas where is my loue, where is my ſweeting. XVIII</item>
+                     <item>O fly not loue, O fly not mee. XIX</item>
+                     <item>Who proſtrate lyes at womens feet. XX</item>
+                     <item>Siſter awake, cloſe not your eyes. XXI</item>
+                  </list>
+                  <list>
+                     <head>
+                        <hi>Orianaes</hi> farewell.</head>
+                     <item>Hark, heare you not a heauenly harmony. XXII</item>
+                  </list>
+                  <list>
+                     <head>Songs to 6. voices.</head>
+                     <item>Deare, if you wiſh my dying. XXIII</item>
+                     <item>Faire <hi>Hebe,</hi> when dame <hi>Flora</hi> meets. XXIIII</item>
+                     <item>
+                        <hi>Phillis</hi> farewell, I may no longer liue. XXV</item>
+                     <item>
+                        <hi>Thirſis, Thirſis</hi> on his faire <hi>Phillis.</hi> XXVI</item>
+                     <item>Merely my loue and I. XXVII</item>
+                     <item>Muſick ſome thincks no Muſick is. XXVIII</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:150783:50"/>
+                  <head>
+                     <hi>TO MY HONORABLE AND MOST reſpected good friend: Sir VVilliam Norres Knight</hi> of the honorable order of the Bath: Thomas Bate<g ref="char:EOLhyphen"/>ſon wiſheth long lyfe, health and happineſſe, with increaſe of honor.</head>
+                  <p>
+                     <seg rend="decorInit">S</seg>YR, I am bould to preſent vnto you theſe few <hi>MADRIGALES,</hi> and I pray you as you haue heeretofore (rather for your exceeding loue to mee, then for any worth that I acknowledge of the Songs) giuen them your priuate applauſe &amp; liking, when I ſent them to you euer as they were compoſed in looſe papers, ſo you wil much more now, (for now in-deed when they come to the worlds eye and cenſure, they had more need of it then euer) Vouchſafe to giue them your good countenance and publick patronage. In trueth I muſt confeſſe, they are like young birds feared out of the neſt before they be well feathered, &amp; finde no place ſo fit to light on as on the braun<g ref="char:EOLhyphen"/>ches of your fauour: where (ſuch is your loue to mee and Muſick) I hope they wilbe ſo ſhrou<g ref="char:EOLhyphen"/>ded in the leaues of your good liking, that you will giue leaue neither to any rauenous Kite nor craftie fowler (I meane neither to any open mouthed <hi>Momus</hi> nor more ſlie detractor) to deuoure, or harme them, that cannot ſuccor nor ſhift for themſelues. I could wiſh them a Cage of as many ſweet ſinging <hi>Nightingales</hi> to ſalute your eares with the choiſeſt of delight<g ref="char:EOLhyphen"/>full Notes and the melody of moſt eare-pleaſing harmony, that your idle time might not paſſe without delight, if they might yeeld it to you. But whatſoeuer they are, yours they are, &amp; for you onely they were made. It was your good countenance that did encourage mee to this; Your loue to Muſick doth not onely chalenge it of mee, but euen the vttermoſt that Muſicks art can afford; which if it were in mee, I would moſt willingly offer to you; Now let theſe my affectionate indeuours be accepted, ſince this is all that I can performe: except the honoring of your Vertues, and obſeruance of your worthineſſe.</p>
+                  <closer>
+                     <signed>Yours in all loue and ſo obliged, <hi>Thomas Bateſon.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="quintus" type="partbook">
+                  <div type="madrigal">
+                     <pb facs="tcp:150783:51"/>
+                     <head>This ſong ſhould haue ben printed in the ſet of <hi>Orianaes.</hi>
+                     </head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>WHen <hi>O╌ria╌na</hi> walkt to take the aier, The world did ſtriue to entertain ſo faire, the ij. the ij. did ſtriue to entertain ſo faire. By <hi>Flora</hi> faire &amp; ſweeteſt flowers were ſtrone, by ij. were ſtrone, by ij. A long the way for her to tread vpon: for ij. The trees did bloſſom, ſiluer riuers ran, the ij. The wind did gently play vp<g ref="char:EOLhyphen"/>on her fan: And then for to delight her graces eare, The woods a temple ſeemd, the birds a quire the birds a quire the woods ij. the birds a quire. Then ſang the ſheperds &amp; Nimphs of <hi>Diana,</hi> and ij. and ij. and ij. Long liue faire <hi>Oriana.</hi> Long ij. <hi>O╌ri╌a╌na.</hi> Long ij. faire <hi>Ori╌a╌na.</hi>
+                     </p>
+                  </div>
+                  <div n="13" type="madrigal">
+                     <pb facs="tcp:150783:51"/>
+                     <head>XIII.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>Hoſe ſweet delightfull Lillies, which nature gaue, which ij. which nature gaue my <hi>Phil╌lis,</hi> which ij. which nature gaue my <hi>Phil╌lis,</hi> Thoſe ſweet delightfull Lillies, which nature gaue my <hi>Phillis,</hi> which ij. ij. ij. Aye mee, ij. Aye mee my <hi>Phillis,</hi> each houre makes mee to lan╌guiſh. So grieuous is my paine, my paine and anguiſh, ſo ij. ſo ij. Aye mee, ij. ij. ij. my <hi>Phil╌lis,</hi> each houre makes mee to languiſh, makes ij. So grieuous is my paine and anguiſh, ſo grieuous is my, paine, ſo ij. ſo ij. and anguiſh.</p>
+                  </div>
+                  <div n="14" type="madrigal">
+                     <pb facs="tcp:150783:52"/>
+                     <head>XIIII.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>AND muſt I needs depart then, And ij. and muſt ij. and muſt ij. can pit╌tie none come nye her: can ij. can ij. can ij. nie her, farewell, ij. farewell, alas deſeart then, farewell, ij. fare<g ref="char:EOLunhyphen"/>well alas, deſeart then: O break a╌ſunder hart to ſa╌tis╌fie her. O ij. O breake ij. to ſa╌tisfie her. to ij. to ſa╌tisfie her, to ij. farewel, ij. ij. alas, deſeart the, deſeart then, farewel alas ij. farewel ij. O break aſu<g ref="char:cmbAbbrStroke">̄</g>der hart to ſa╌tis╌fie her. O break ij. to ſa╌ij. to ſa╌ij. to ſa╌ij. to ſa╌ij.</p>
+                  </div>
+                  <div n="15" type="madrigal">
+                     <pb facs="tcp:150783:52"/>
+                     <head>XV.</head>
+                     <opener>Of 5. voc. The firſt part. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Weet <hi>Gemma,</hi> when I firſt beheld thy beautie, thy beau╌tie, I vou'd thee ſeruice, I ij. I ij. I ij. honour, loue, and deutie: ho ij. ho ij. O then, O then, I ſaid the beſt, I ij. the beſt, is hi╌ther come to make mee bleſt, to ij. but thou alas, a╌las, a╌las, a╌las, a╌las, ſweet, thou doſt not regard, doſt not regard my vow's, goe, goe, let mee not ſee, goe, goe, let mee goe, goe ij. goe ij. let mee not ſee, goe, goe, ij. let mee not ſee, Cru╌ell though fayreſt thee. fayreſt thee, Cru╌ell ij. cru╌ell though fay╌reſt thee.</p>
+                  </div>
+                  <div n="16" type="madrigal">
+                     <pb facs="tcp:150783:53"/>
+                     <head>XVI.</head>
+                     <opener>Of 5. voc. The ſecond part. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">Y</seg>Et ſtay alway, yet ij, yet ſtay al<g ref="char:EOLhyphen"/>way, bee chained to my hart, with links of loue, that wee doe neuer part. with links ij. then Ile not call thee Serpent, Tiger cru╌ell, then ij. (O) Ti╌ger cru╌ell, but my ſweet <hi>Gemma,</hi> and my deareſt Iu╌ell. but my ij. my deareſt Iu╌ell. but ij. and my deareſt Iu╌ell.</p>
+                  </div>
+                  <div n="17" type="madrigal">
+                     <pb facs="tcp:150783:53"/>
+                     <head>XVII.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Trange were the life, ij. ſtrange were the life, that e╌ue╌rie man would like, more ſtrange the ſtate, ij. the ſtate, more ij. that ſhould miſ╌like each one, rare were the <hi>Iemme,</hi> rare were the <hi>Iemme,</hi> that e╌ue╌rie one would ſeeke, that ij. would ſeeke, and little little worth, and ij. and lit╌tle ij. and little ij. that all would let a<g ref="char:EOLhyphen"/>lone, ſweet were the meat, ij. ſweet ij. that eue╌rie one would chuſe, and ſowre the ſauſe, and ij. and ſowre the ſauſe, the ſauſe, that all men would re╌fuſe.</p>
+                  </div>
+                  <div n="18" type="madrigal">
+                     <pb facs="tcp:150783:54"/>
+                     <head>XVIII.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>ALas, ij. where is my Loue? where is my ſweeting? where ij. That hath ſtolne away my hart, my hart, God ſend vs meeting, god ij. that renu╌ing my lament, ij. with friendly greeting, ij. ij. She may releaſe my ſmart and all my weeping: ſhe ij. But if my ſight ſhe flie, till hartles I die, till ij. My grieued ghoſt with ſhrikes &amp; dreadfull crying, cry╌ing, ſhrikes ij. alwaies about her fly╌ing, flying, Shal murmure out complayning, to be reueng'd of all her deepe diſdayning<g ref="char:punc">▪</g> her ij. to ij. to ij. to ij. to ij. to ij.</p>
+                  </div>
+                  <div n="19" type="madrigal">
+                     <pb facs="tcp:150783:54"/>
+                     <head>XIX.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Flie not Loue, O flie not me, O flie not loue, ô flie not mee, O flie not loue, O flie not loue, O flie not loue, O flie not mee, ſtay but a while, but ij. (O) but a while, (O) ſtay thee, ſtay ij. but a while, ſtay ij O ſtay thee, &amp; heare a wretch complai╌ning, and ij. his griefe through thy diſ╌dai╌ning: O doe not thus, do not thus vnfriendly vſe mee, O ij. doe ij. O ij. doe ij. O ij. doe ij. to kiſſe mee once and ſo re╌fuſe mee. &amp; ſo refuſe mee. to ij. refuſe mee. to kiſſe mee once &amp; ſo re╌fuſe mee.</p>
+                  </div>
+                  <div n="20" type="madrigal">
+                     <pb facs="tcp:150783:55"/>
+                     <head>XX.</head>
+                     <opener>Of 5 voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Ho proſtrate lies at Womens feete, at ij. &amp; cals them darlings deare and ſweet, deare and ſweet, and ij. and cals them darlings deare and ſweet, and ij. and ij. deare and ſweet, Proteſting loue and crauing grace, And praiſing oft, and ij. and ij. a fooliſh face, a ij. Are oftentimes deceiu'd at laſt, Then catch at naught and hould it faſt. then ij. then ij. Are oftentimes deceiu'd at laſt, Then catch at naught and hould it faſt. then ij. it faſt, and hould it faſt.</p>
+                  </div>
+                  <div n="21" type="madrigal">
+                     <pb facs="tcp:150783:55"/>
+                     <head>XXI.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Iſter awake cloſe not your eies, cloſe not your eies, The day her light diſcloſes, the ij. and the bright morning doth ariſe, doth a╌riſe, Out of her bed of Roſes: out ij. her bed of Roſes: See, ſee the cleere Sunne, the worlds bright Eie, the ij. in at our window peeping: in ij. in ij. Loe how he bluſheth, to eſpie vs Idle wenches ſleeping, vs Idle ij. ſlee╌ping. therfore a<g ref="char:EOLhyphen"/>wake make haſt I ſay, and let vs without ſtay╌ing, into the Parke a Maying. into ij. in╌to the Park a Maying. into ij. in╌to ij. a Maying.</p>
+                  </div>
+                  <div n="22" type="madrigal">
+                     <pb facs="tcp:150783:56"/>
+                     <head>XXII.</head>
+                     <opener>Of 5. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>HArke, heare you not, heare ij. a heauenly harmony, a ij. a heauenly harmo╌nie, Iſt loue think you, that plaies, that plaies, ij. that plaies vpon the Sphears, Heauens is not this, heauens is not this heauenly melody, heauens ij. a heauenly melody, wher loue himſelfe a part, wher ij. in Muſick beares, a part in Mu╌ſick beares, Now comes in a quire of Nightingales, mark, mark how the Nimphs &amp; ſhephaerds of the dales, how all doe ioyne together in the praiſe of O╌rianaes life &amp; hap╌pie daies. of O╌ri╌anaes life, of O╌ri╌anaes life &amp; happie daies. Then ſing ye ſheperds &amp; Nimphs of Dia╌na, then ij. Nimphs of Dia╌na. In heauen liues O╌ri╌a na. in ij. in ij. in ij. in ij. in ij. in ij.</p>
+                     <trailer>Heere endeth the ſongs of 5. parts.</trailer>
+                  </div>
+                  <div n="23" type="madrigal">
+                     <pb facs="tcp:150783:56"/>
+                     <head>XXIII.</head>
+                     <opener>Of 6. voc. QVINTVS</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Eare if you wiſh my dying, Deare, ij. in vaine your wiſh redownds, in vaine ij. in vaine your prayer, for can he dye that breaths not vitall ayer? that breaths not vitall ayer? that ij. not vitall ayer? Then with thoſe eyes that ſlew mee, then ij. new lyfe in╌fuſeing, renew me: renew mee: re<g ref="char:EOLhyphen"/>new mee: So ſhall we both ob╌taine our wiſhed pleaſure, our ij. you my deat ioy╌ing, and I my lifes ſweet treaſure<g ref="char:punc">▪</g> and ij. and ij. and I my lyfes ſweet treaſure. my lifes ſweet treaſure.</p>
+                  </div>
+                  <div n="24" type="madrigal">
+                     <pb facs="tcp:150783:57"/>
+                     <head>XXIIII.</head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">F</seg>Aire <hi>He╌be,</hi> when dame <hi>Flo╌ra</hi> meets, dame <hi>Flo╌ra</hi> meets, dame ij. dame <hi>Flo╌ra</hi> meets: ſhee trips &amp; leaps, ſhee ij. ſhee ij. as gallants doe, as ij. vp to the hils, and down, and down againe, vp to ij. and downe againe, againe, to the vallaies runs ſhee too &amp; fro, runs ij. too and fro, but out alas, but out ij. begirds the head, with cark and care, with ij. peace, laugh no more, laugh no more, laugh no more, let prancks goe by, let ij. let ij. let ij. ſlow crauling age, forbids ſuch ware. ſlow crauling ij. forbids ſuch ware.</p>
+                  </div>
+                  <div n="25" type="madrigal">
+                     <pb facs="tcp:150783:57"/>
+                     <head>XXV.</head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>
+                           <seg rend="decorInit">P</seg>Hillis</hi> farewell I may no longer liue, no longer liue, I ij. no longer liue, Yet if I dye, yet ij. faire <hi>Phillis</hi> I forgiue, faire ij. faire ij. faire <hi>Phillis</hi> I forgiue, I liue to long, I liue to long, come gentle death and end: come ij. come ij. My endleſſe torment or my griefe a╌mend. my end: ij. my end: ij. or my griefe amend. or my griefe amend. my griefe amend. or my griefe, or my griefe, my griefe amend.</p>
+                  </div>
+                  <div n="26" type="madrigal">
+                     <pb facs="tcp:150783:58"/>
+                     <head>XXVI.</head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <hi>THir╌ſis, Thir╌ſis,</hi> ij. on his faire <hi>Phillis</hi> breſt repoſing, ſweet<g ref="char:EOLhyphen"/>ly did lan╌guiſh, did languiſh, when ſhee in loues ſweet anguiſh, him kiſsing gently, ſaid thus, ſaid thus, ſaid thus, with ſugred gloſing, <hi>Thirſis</hi> O tell me, thy true loue beſt aprooued, beſt ij. Art not thou, art ij. my belo╌ued, Then hee, which to her hart was e╌uer nee╌reſt. kiſt her againe, &amp; ſaid, kiſt ij. and ſaid, Yes, yes yes yes, La╌dy dee╌reſt. yes, yes ij. yes, yes, La╌dy dee╌reſt. deereſt: Then hee, which to her hart was e╌uer nee╌reſt, kiſt her againe, &amp; ſaid, kiſt ij. and ſaid, Yes, yes yes yes La╌dy deereſt. yes yes ij. yes yes La╌dy dee╌reſt. deereſt.</p>
+                  </div>
+                  <div n="27" type="madrigal">
+                     <pb facs="tcp:150783:58"/>
+                     <head>XXVII.</head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Erely &amp;c. Vpon the plaines were ſpor╌ting, were ſporting, were ij. chearfully the Nimphs and Faunes, the ij. the ij. oft times to vs reſorted, oft ij. to vs reſorted, ſorrow did not vs aſſaile, vs ij. wee taſted of each plea╌ſure, happie thoſe that may with vs haue part of loues rich trea╌ſure. of loues ij. of loues ij. happie thoſe, ij. that may with vs haue part, of loues rich treaſure. haue part ij. of loues rich treaſure.</p>
+                  </div>
+                  <div n="28" type="madrigal">
+                     <pb facs="tcp:150783:59"/>
+                     <head>XXVIII.</head>
+                     <opener>Of 6. voc. QVINTVS.</opener>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">M</seg>Vſick ſome think no Muſick is, Muſick ij. vnleſſe ſhe ſing of clip &amp; kiſſe, vnleſſe ſhe ſing: ij. vnleſſe ij. vnleſſe ij. and bring to wanton tunes fie fie fie fie: and ij or tihha tahha, or ile crye: or tihha ij. or tihha ij. But let, but let ſuch rimes no more diſgrace, but let ij. no more diſgrace, Muſick ſprung of heauenly race. Muſick ij. Muſick ſprung of heauenly race.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:150783:59"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
